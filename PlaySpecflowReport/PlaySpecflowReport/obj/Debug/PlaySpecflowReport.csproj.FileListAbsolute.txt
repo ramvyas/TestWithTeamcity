@@ -1,0 +1,5 @@
+C:\Users\Ramm\Documents\GitHub\PlaySpecflowReport\PlaySpecflowReport\bin\Debug\PlaySpecflowReport.dll
+C:\Users\Ramm\Documents\GitHub\PlaySpecflowReport\PlaySpecflowReport\bin\Debug\PlaySpecflowReport.pdb
+C:\Users\Ramm\Documents\GitHub\PlaySpecflowReport\PlaySpecflowReport\obj\Debug\PlaySpecflowReport.csprojResolveAssemblyReference.cache
+C:\Users\Ramm\Documents\GitHub\PlaySpecflowReport\PlaySpecflowReport\obj\Debug\PlaySpecflowReport.dll
+C:\Users\Ramm\Documents\GitHub\PlaySpecflowReport\PlaySpecflowReport\obj\Debug\PlaySpecflowReport.pdb
